@@ -1,0 +1,12 @@
+You now need to work on your main exercise for this topic: collecting a data set of your own and training a model. 
+
+What you need to do is:
+
+Choose a task that you want the machine learning algorithm to learn. That will be a classification task: putting images into classes. 
+Choose 2 or 3 classes appropriate to your task and that you think machine learning will be able to distinguish.
+Collect data for each task (between 20 and 40 examples of each class should work). Each example should be an image, you could take photographs yourself or use existing images.
+Divide your dataset into a training and testing set.
+Use the plugin in the next activity to train a model on your dataset, in the same way as you have trained with the datasets we gave you last week. 
+Use your testing set to evaluate how well your classifier works. How many examples did it get right?
+If necessary try to improve the result by collecting more data, or maybe changing the tasks slightly.
+After the main exercise you will be asked to reflect on your results. 
