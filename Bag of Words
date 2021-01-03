@@ -1,0 +1,71 @@
+1.
+Question 1
+In this quiz, I would like you to find out about a particular type of feature used in machine learning. That feature is called "bag of words". 
+
+Use the internet to research the "bag of words" Representation and then answer the following questions. A simple web search should reveal some useful information. If you don't know the answer to any question, feel free to go back and do some more research before finished the quiz. 
+
+Firstly, what type of data does "bag of words" represent?
+
+1 / 1 point
+
+Answer:
+
+
+Written Text
+
+
+
+2.
+Question 2
+The bag of words representation ignores the order of the words in a text
+
+1 / 1 point
+
+Answer:
+True
+
+
+3.
+Question 3
+The bag of words representation ignores the number of times a word appears in a text
+
+Answer:
+
+False
+
+
+
+4.
+Question 4
+How many numbers are used to represent a piece of text
+
+1 / 1 point
+
+Answer:
+
+One for every unique word (i.e. not including repeats)
+
+
+
+5.
+Question 5
+What do you think are the advantages and disadvantages of bag of words?
+
+Very simple to understand and implement.
+Bag of words leads to a high dimensional feature vector due to large size of Vocabulary, V.
+Bag of words doesn’t leverage co-occurrence statistics between words. In other words, it assumes all words are independent of each other.
+It leads to a highly sparse vectors as there is nonzero value in dimensions corresponding to words that occur in the sentence.
+
+Answer:
+Some advantages:
+
+Simple, clear representation
+The same number of features for each text
+Words are very important to meaning, so it is an important representation
+Words that appear a lot in a text have more importance
+
+Disadvantages:
+
+The main disadvantage is that it does not take account of word order, so it looses important aspects of meaning
+It is a large representation that includes a lot of features (one for every word), most of which will be zero for a given text
+It can't take account of similarity between different words (word embeddings is a solution to this)
