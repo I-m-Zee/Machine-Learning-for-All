@@ -1,0 +1,196 @@
+PROMPT
+Describe your machine learning project, in terms of the following:
+
+What problem were you trying to solve?
+What data did you collect?
+What classes did you use to classify your data, and why they were chosen?
+1. I was trying to classify the humans vs animals which means that in My problem, I want to distinguish between humans and animals.
+
+2. I collected almost 25 images of different animals (Lion, Tiger, Cat, Horse, Cow etc) and same amount of images humans (Male, Female, Beggar, Artists etc).
+
+3. I chose only two classes "Humans" and "Animals" because i only want to differentiate between humans and animals.
+
+RUBRIC
+D​id the answer fully describe the problem that the project aimed to solve?
+
+	
+0 points
+N​o, the response did not really describe the problem
+
+	
+1 point
+Y​es, but the answer was unclear or incomplete
+
+	
+2 points
+Y​es, the problem was fully described
+
+VG
+
+PK
+
+DB
+
+D​id the answer fully describe the data that was collected?
+
+	
+0 points
+N​o, the response did not really describe the data
+
+	
+1 point
+Y​es, but the answer was unclear or incomplete
+
+	
+2 points
+Y​es, the data was fully described
+
+VG
+
+PK
+
+DB
+
+D​id the answer fully describe the classes and why they were chosen?
+
+	
+0 points
+N​o, the response did not really describe the classes
+
+	
+1 point
+Y​es, but the answer was unclear or incomplete, or it did not explain why the classes were chosen 
+
+DB
+
+	
+2 points
+Y​es, the classes and reasons for choosing them were fully described
+
+VG
+
+PK
+
+PROMPT
+T​his part of the question is about evaluating your project, in terms of the following:
+
+How well did your classifier work? Were you happy with the results? What was the overall percentage accuracy on test data?
+D​escribe what types of images your models classifies well and which they classify badly.
+Explain why you think it performed well or badly on the images you described in the last part. 
+Were there problems with the classifier that you were able to solve? Describe your strategy for solving the problem 
+1. Yes, my classifier work very well even i had tried some test cases of humans wearing face mask of animals. In my case the overall percentage accuracy on the test data was almost 99.99%.
+
+2. My model classify all type of image very well even i had tried some test cases of humans wearing face mask of animals.
+
+3. It performed well because i have given it a large data set of images during training. So, a well trained model also predict well and his overall performance will also increases.
+
+4. No, there were no problems with the classifier. If it had, then i will need large set of data and train the model again and then test my data.
+
+RUBRIC
+D​id the answer evaluate how well the classifier worked?
+
+	
+0 points
+N​o, the response did not really evaluate the project
+
+	
+1 point
+Y​es, but the answer was vague or incomplete
+
+	
+2 points
+Y​es, there was a full evaluation
+
+VG
+
+PK
+
+DB
+
+D​id the evaluation include a percentage accuracy on test data?
+
+	
+0 points
+N​o
+
+	
+1 point
+A​ percentage accuracy was given but on training data
+
+	
+1 point
+A​accuracy on test data was described by not given as a number
+
+	
+2 points
+Y​es
+
+VG
+
+PK
+
+DB
+
+Did the answer d​escribe what types of images your models classifies well and which they classify badly.
+
+	
+0 points
+N​o, the response did not describe which images the model performed well or badly on
+
+	
+1 point
+Y​es, but the answer was vague or incomplete
+
+VG
+
+DB
+
+	
+2 points
+Y​es, there was a full description
+
+PK
+
+Did the answer explain why the model performed well or badly on the images described in the last part. 
+
+	
+0 points
+N​o
+
+	
+1 point
+Y​es, but the answer was vague or incomplete
+
+	
+1 point
+Y​es, but the explanation was not likely to be true given what you know from the course
+
+DB
+
+	
+2 points
+Y​es, there was a full, plausible explanation
+
+VG
+
+PK
+
+Did the answer describe problems with the classifier that the learner was able to solve and their strategy for solving them? 
+
+	
+0 points
+N​o, they did not address this part of the question
+
+	
+1 point
+No, they did not have any problems that matched this category
+
+	
+1 point
+Y​es, they described the problem but did not describe the solution, or the solution was described in a vague or incomplete way
+
+DB
+
+	
+2 points
+Y​es, there was a full, plausible explanation of how they solved the problem 
